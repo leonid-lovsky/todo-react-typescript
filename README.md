@@ -1,1 +1,1 @@
-# TODO app (React + TypeScript + Vite)
+React + TypeScript + Vite
